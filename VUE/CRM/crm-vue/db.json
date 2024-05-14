@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "id": "b3cc",
+      "nombre": "Esteban ",
+      "apellido": "Amazo",
+      "email": "bymzno@gmail.com",
+      "telefono": "3025188226",
+      "empresa": "SolucionSoft S.A.S"
+    },
+    {
+      "id": "2165",
+      "nombre": "Camilo",
+      "apellido": "Cortes",
+      "email": "camilo@gmail.com",
+      "telefono": "3025188226",
+      "empresa": "SolucionSoft S.A.S"
+    },
+    {
+      "id": "943a",
+      "nombre": "dfgdfg",
+      "apellido": "Amazo",
+      "email": "bymzno@gmail.com",
+      "telefono": "3025188226",
+      "empresa": "SolucionSoft S.A.S"
+    },
+    {
+      "id": "ad79",
+      "nombre": "Otros",
+      "apellido": "otro apellido",
+      "email": "asdas@asdasd.com",
+      "telefono": "234234",
+      "empresa": "dddd"
+    }
+  ]
+}
